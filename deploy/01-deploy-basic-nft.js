@@ -24,4 +24,4 @@ module.exports = async function ({ getNamedAccounts, deployments }) {
     }
 };
 
-module.exports.tags = ["basicNft"];
+module.exports.tags = ["all", "basicNft"];
